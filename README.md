@@ -6,3 +6,5 @@ Nombre de estudiante #2: Genkis Kan
 
 
 Agregado desde el branch agregar-tarea-nueva 🚀
+
+Agregado desde github desktop
